@@ -86,7 +86,7 @@ flutter pub get
 flutter run
 ```
 
-GitHub: https://github.com/saisruthi0606-collab
+GitHub: https://github.com/saisruthi0606-collab/to_do_flutter
 
 ---
 
